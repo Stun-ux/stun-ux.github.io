@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9UJWQ37PN7.com.StuNeal.Peak-Racing"],
+        "components": [
+          { "/": "/peakracing/invite*" }
+        ]
+      }
+    ]
+  }
+}
